@@ -9,3 +9,10 @@ I have no idea how to make these ReadMe's
 
 
  | You Might get an error in ur ESP, this is an easy fix (see photo)![image](https://user-images.githubusercontent.com/69991448/205401138-4d06c8c0-8561-46bc-aa13-d62b9e4dba39.png)
+
+
+# BUGS 
+ - IF IT LOOKS LIKE THIS, ADD IT INTO THE UPDATE U DUMB SKID
+ 
+ ![image](https://user-images.githubusercontent.com/69991448/205401740-0df2a800-912f-4fad-9936-0d72ba446ba0.png)
+
