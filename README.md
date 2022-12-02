@@ -12,7 +12,7 @@ I have no idea how to make these ReadMe's
 
 
 # BUGS 
- - IF IT LOOKS LIKE THIS, ADD IT INTO THE UPDATE U DUMB SKID
+ - IF IT LOOKS LIKE THIS, ADD IT IN THE UPDATE CALL U DUMB SKID
  
  ![image](https://user-images.githubusercontent.com/69991448/205401740-0df2a800-912f-4fad-9936-0d72ba446ba0.png)
 
